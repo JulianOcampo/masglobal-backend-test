@@ -11,7 +11,7 @@ http://localhost:50449/api/Employees -> [method-GET] returns a list of employees
 http://localhost:50449/api/Employee/2 -> [method-GET] returns an specific employee
 
 ## Previews
-<img src="https://lh3.googleusercontent.com/2yJqKuHsFaK1gXzNGDOO3Wou2--TksQFrRooiBJQO6IGN8iH5ssddwknCm9cyZc1yzMjTTK0X0uj1g_WwO59=w1366-h657-rw" height="300" />
-<img src="https://lh5.googleusercontent.com/40iSVK0FrdEfIisXM282xP5QWPgbHPXCRbjN3zBn5-0YPc_wF2rUCKhHqEldATDBXgglZzjhB-Gyj6sjflPz=w1366-h657-rw" height="250" />
-<img src="https://lh4.googleusercontent.com/HeAtuCF_GUtUf5ljzlEY9b50KYrDBUYrSWZMbBeZ7EKjLz254ApMqa52RO2hJ6Zmpcub_AinJriPndsX6I8g=w1366-h657" height="350" />
+<img src="https://firebasestorage.googleapis.com/v0/b/firstproyect-911a0.appspot.com/o/Captura1.PNG?alt=media&token=df3b7e72-b2a8-425d-abf0-7a3476e2588e" height="300" />
+<img src="https://firebasestorage.googleapis.com/v0/b/firstproyect-911a0.appspot.com/o/Captura2.PNG?alt=media&token=208271fe-5821-4d09-8896-355e30abaea3" height="250" />
+<img src="https://firebasestorage.googleapis.com/v0/b/firstproyect-911a0.appspot.com/o/Captura3.PNG?alt=media&token=8f863dcf-509c-44fa-8142-a4c72d70e4c7" height="350" />
 
